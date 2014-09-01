@@ -1,4 +1,4 @@
-# makefile for Lua 5.2 beta
+# makefile for Lua 5.2
 project("Lua")
 
 cmake_minimum_required(VERSION 2.8)
